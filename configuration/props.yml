@@ -1,0 +1,5 @@
+user-list:
+  - username: ashish
+    password: khatiwada
+  - username: hello
+    password: world
